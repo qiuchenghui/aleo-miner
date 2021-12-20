@@ -7,7 +7,7 @@ import Summary from "../components/Summary";
 
 export default function table() {
 	return (
-		<div className="flex flex-col items-center justify-center min-h-screen">
+		<div className="flex flex-col min-h-screen">
 			<Head>
 				<title>Aleo Miner</title>
 				<link rel="icon" href="/favicon.ico" />
